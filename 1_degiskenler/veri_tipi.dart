@@ -1,7 +1,7 @@
 void main(List<String> args) {
 
 
-  String yasamSeviyesi = "yüksek";
+  //String yasamSeviyesi = "yüksek";
   String isim = "sefa şeker";
   int yas = 21;
   double boy = 1.70;
@@ -27,11 +27,11 @@ void main(List<String> args) {
   print("doğru mu:$dogruMu yanlış mı:$yanlisMi");
   String mesaj = "Merhaba, benim adım ${isim} ve ben ${yas} yaşındayım.";
   print(mesaj);
-  String sefa = "admin name";
+  //tring sefa = "admin name";
 
   print(tamAd.length);
   print("adımınız unuzunluğu : ${(ad+soyad).length}");
 
-  print("ismi:$isim yası:$yas boy:$boy evliMi:$evliMi,en sevdiği sayı:$piSayisi,yaşadığı şehir:$sehir");
+  print("ismi:$isim yası:$yas boy:$boy evliMi:$evliMi,en sevdiği sayı:$piSayisi,yaşadığı şehtir:$sehir");
 
 }
