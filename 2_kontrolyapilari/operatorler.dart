@@ -43,7 +43,7 @@ void main(List<String> args) {
   sayi3 = sayi3++;//once kullan sonra arttır
   sayi = ++sayi3;//once arttır sonra kullan
 
-  int x = 0 , y = 5;
+  // int x = 0 , y = 5;
     
 
 
